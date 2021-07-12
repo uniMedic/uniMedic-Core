@@ -1,0 +1,16 @@
+bunch
+dataset
+fastapi
+h5py
+numpy
+opencv-python
+pandas
+Pillow
+torch
+torchvision
+uvicorn
+medpy
+scikit-image
+nltk
+google_trans_new
+pydantic
